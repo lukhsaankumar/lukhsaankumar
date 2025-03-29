@@ -15,7 +15,7 @@ My name is **Lukhsaan Elankumaran**, and I'm a second-year Software Engineering 
 `Java` `Python` `C/C++` `JavaScript` `HTML/CSS` `TypeScript` `SQL` `Bash` `Verilog` `Assembly` `YAML`
 
 **Frameworks / Libraries**  
-`React` `Next.js` `Node.js` `Django` `Flask` `React Native` [`TensorFlow`](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) [`Pytorch`](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) `Scikit-Learn` `FastAPI`
+`React` `Next.js` `Node.js` `Django` `Flask` `React Native` ![image]({https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white}) [`Pytorch`](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) `Scikit-Learn` `FastAPI`
 
 **Tools & DevOps**  
 `Git` https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white `VS Code` `Visual Studio` `Eclipse` `Maven` [`AWS`](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) `Docker` `Kubernetes` `Kafka`
