@@ -1,16 +1,32 @@
-## Hi there 👋
+# 💫 About Me:
+My name is **Lukhsaan Elankumaran**, and I'm a second-year Software Engineering student at McMaster University. I’m passionate about full-stack development, cloud computing, and AI/ML technologies.  
 
-<!--
-**lukhsaankumar/lukhsaankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Connect with me:
+- [LinkedIn](https://linkedin.com/in/lukhsaan)
+- 📧 lukhsaankumar@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack:
+
+**Languages**  
+`Java` `Python` `C/C++` `JavaScript` `HTML/CSS` `TypeScript` `SQL` `Bash` `Verilog` `Assembly` `YAML`
+
+**Frameworks / Libraries**  
+`React` `Next.js` `Node.js` `Django` `Flask` `React Native` `TensorFlow` `Pytorch` `Scikit-Learn` `FastAPI`
+
+**Tools & DevOps**  
+`Git` `GitHub` `VS Code` `Visual Studio` `Eclipse` `Maven` `AWS` `Docker` `Kubernetes` `Kafka`
+
+
+---
+
+## 📊 GitHub Stats:
+
+![Lukhsaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukhsaankumar&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukhsaankumar&layout=compact&theme=tokyonight)
+
+
