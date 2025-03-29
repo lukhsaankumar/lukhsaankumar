@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is **Lukhsaan Elankumaran**, and I'm a second-year Software Engineering student at McMaster University. I’m passionate about full-stack development, cloud computing, and AI/ML technologies.  
+My name is **Lukhsaan Elankumaran**, and I'm a second-year Software Engineering student at McMaster University. I’m passionate about Full-Stack Development, Cloud Computing, DevOps, and AI/ML technologies.  
 
 ---
 
