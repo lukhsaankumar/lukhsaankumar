@@ -38,6 +38,6 @@ My name is Lukhsaan Elankumaran, and I'm a second-year Software Engineering stud
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=lukhsaankumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
+![](https://github-readme-stats.vercel.app/api?username=lukhsaankumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=lukhsaankumar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lukhsaankumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=lukhsaankumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)!-->
