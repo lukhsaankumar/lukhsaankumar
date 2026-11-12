@@ -6,31 +6,15 @@ My name is Lukhsaan Elankumaran, and I'm a Software Engineering (Co-op) student 
 
 # 💼 Experience:
 
-| Role | Company | When |
-| --- | --- | --- |
-| Applied Machine Learning Engineer Intern | **Shopify** | Sept 2026 – Dec 2026 |
-| AI Solution Architect Intern | **IBM** | May 2026 – Aug 2026 |
-| Forward Deployed AI Engineer Intern | **IG Wealth Management** | Jan 2026 – Apr 2026 |
-| Software Developer Intern – Android Generative AI | **RBC** | Sept 2025 – Dec 2025 |
-| ML Research Assistant / Full Stack Developer Intern | **McMaster WELL & ARCO Lab** | Apr 2025 – Aug 2025, Mar 2026 – Aug 2026 |
-| Machine Learning Developer (LSi Program) | **RBC Borealis** | Mar 2025 – May 2025 |
-
-<details>
-<summary><b>Highlights</b></summary>
+**Currently at**
 <br/>
 
-- **Shopify:** Investigating uncertainty-aware ad budget optimization (Autopilot) using ANP posterior predictions and Python ranking logic.
-- **IBM:** Designed a novel contract-processing solution for an enterprise workflow bottleneck; built CI/CD pipelines and deployed 8 Go, Rust & MCP microservices on OpenShift (K8s); built scalable evaluation infrastructure for contract-analysis agents to diagnose failures and reduce hallucinations.
-- **IG Wealth Management:** Led development of an intelligence agent delivering daily market briefs and weekly strategic intelligence to IGM's CEO; built Google Cloud AI solutions with BigQuery (+70% productivity).
-- **RBC:** Built RAG-powered Android banking agents with LangGraph, function calling and tool orchestration; shipped production Kotlin/Java features (MVVM, Jetpack Compose) and fixed a TalkBack accessibility issue across 30+ screens.
-- **McMaster WELL & ARCO Lab:** Applied Gaussian processes and informative path planning to environmental sampling (ICRA 2027 submission). Real-time environmental dashboard (Next.js, Flask, PostgreSQL) serving 1.5M+ data points/year; 75% faster exports with Redis + Celery; 90% smaller chart payloads; production CI/CD with GitHub Actions & Docker.
-- **RBC Borealis:** Real-time cardiac risk prediction (fine-tuned BiLSTM + ensemble, PyTorch) with a Swift Apple Watch app streaming ECG data to FastAPI.
+[![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)](https://www.shopify.com)
 
-</details>
+**Previously at**
+<br/>
 
-# 🚀 Projects:
-- **GlassBox LLMs** (GDG McMaster): circuit-level analysis of LLMs, representing model computation as directed graphs of attention heads and MLP nodes.
-- **Deepfake Detector** (Mac AI Society): Project Lead. Built a CNN + ViT + FFT fusion model that reaches 92% on AI-GenBench, served on GPU with NVIDIA Triton, FastAPI, and Docker.
+![IBM](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge) ![IG Wealth Management](https://img.shields.io/badge/IG%20Wealth%20Management-00285A?style=for-the-badge) ![RBC](https://img.shields.io/badge/RBC-005DAA?style=for-the-badge) ![RBC Borealis](https://img.shields.io/badge/RBC%20Borealis-1E1E1E?style=for-the-badge)
 
 # 💻 Tech Stack:
 
