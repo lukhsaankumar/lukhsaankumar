@@ -1,11 +1,6 @@
 # 💫 About Me:
 My name is Lukhsaan Elankumaran, and I'm a Software Engineering (Co-op) student at McMaster University (Class of 2028). I'm passionate about Applied AI/ML, AI Agents, Full-Stack Development, Cloud Computing, and DevOps.
 
-- 🛍️ Currently an **Applied Machine Learning Engineer Intern** on the **Sidekick** team at **Shopify**
-- 🔬 Researching **Gaussian processes & informative path planning** for environmental sampling at McMaster's ARCO Lab (ICRA 2027 submission)
-- 🧠 Contributing to **GlassBox LLMs**, an open-source mechanistic interpretability toolkit (GDG McMaster)
-- 🌐 Portfolio: [lukhsaankumar.com](https://lukhsaankumar.com)
-
 ## 🌐 Socials:
 [![Website](https://img.shields.io/badge/Website-000000?logo=googlechrome&logoColor=white)](https://lukhsaankumar.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lukhsaan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lukhsaankumar@gmail.com)
 
@@ -13,9 +8,9 @@ My name is Lukhsaan Elankumaran, and I'm a Software Engineering (Co-op) student 
 
 | Role | Company | When |
 | --- | --- | --- |
-| Applied Machine Learning Engineer Intern (Sidekick) | **Shopify** | Sept 2026 – Dec 2026 |
+| Applied Machine Learning Engineer Intern | **Shopify** | Sept 2026 – Dec 2026 |
 | AI Solution Architect Intern | **IBM** | May 2026 – Aug 2026 |
-| AI Agent Intern | **IG Wealth Management** | Jan 2026 – Apr 2026 |
+| Forward Deployed AI Engineer Intern | **IG Wealth Management** | Jan 2026 – Apr 2026 |
 | Software Developer Intern – Android Generative AI | **RBC** | Sept 2025 – Dec 2025 |
 | ML Research Assistant / Full Stack Developer Intern | **McMaster WELL & ARCO Lab** | Apr 2025 – Aug 2025, Mar 2026 – Aug 2026 |
 | Machine Learning Developer (LSi Program) | **RBC Borealis** | Mar 2025 – May 2025 |
@@ -24,10 +19,11 @@ My name is Lukhsaan Elankumaran, and I'm a Software Engineering (Co-op) student 
 <summary><b>Highlights</b></summary>
 <br/>
 
-- **IBM:** Built CI/CD pipelines and deployed 8 Go, Rust & MCP microservices on OpenShift (K8s); built scalable evaluation infrastructure for contract-analysis agents to diagnose failures and reduce hallucinations.
-- **IG Wealth Management:** Built Google Cloud AI solutions with BigQuery (+70% productivity) and led development of an intelligence agent delivering daily market briefs to IGM's CEO.
+- **Shopify:** Investigating uncertainty-aware ad budget optimization (Autopilot) using ANP posterior predictions and Python ranking logic.
+- **IBM:** Designed a novel contract-processing solution for an enterprise workflow bottleneck; built CI/CD pipelines and deployed 8 Go, Rust & MCP microservices on OpenShift (K8s); built scalable evaluation infrastructure for contract-analysis agents to diagnose failures and reduce hallucinations.
+- **IG Wealth Management:** Led development of an intelligence agent delivering daily market briefs and weekly strategic intelligence to IGM's CEO; built Google Cloud AI solutions with BigQuery (+70% productivity).
 - **RBC:** Built RAG-powered Android banking agents with LangGraph, function calling and tool orchestration; shipped production Kotlin/Java features (MVVM, Jetpack Compose) and fixed a TalkBack accessibility issue across 30+ screens.
-- **McMaster WELL Lab:** Real-time environmental dashboard (Next.js, Flask, PostgreSQL) serving 1.5M+ data points/year; 75% faster exports with Redis + Celery; 90% smaller chart payloads; production CI/CD with GitHub Actions & Docker.
+- **McMaster WELL & ARCO Lab:** Applied Gaussian processes and informative path planning to environmental sampling (ICRA 2027 submission). Real-time environmental dashboard (Next.js, Flask, PostgreSQL) serving 1.5M+ data points/year; 75% faster exports with Redis + Celery; 90% smaller chart payloads; production CI/CD with GitHub Actions & Docker.
 - **RBC Borealis:** Real-time cardiac risk prediction (fine-tuned BiLSTM + ensemble, PyTorch) with a Swift Apple Watch app streaming ECG data to FastAPI.
 
 </details>
@@ -41,7 +37,7 @@ My name is Lukhsaan Elankumaran, and I'm a Software Engineering (Co-op) student 
 **Languages**
 <br/>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Verilog](https://img.shields.io/badge/verilog-%23555555.svg?style=for-the-badge) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Verilog](https://img.shields.io/badge/verilog-%23555555.svg?style=for-the-badge) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 **AI/ML**
 <br/>
